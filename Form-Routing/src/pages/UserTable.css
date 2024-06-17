@@ -1,0 +1,10 @@
+*{
+    align-items: center;
+}
+table{
+    width: 80%;
+    height: auto;
+    background-color: antiquewhite;
+    border: 1px black;
+    
+}
